@@ -1,2 +1,2 @@
-# TuWenQi.github.io
+# blog
 涂文奇的个人博客
